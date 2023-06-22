@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "943157283345",
+    "project_id": "i-do-dba18",
+    "storage_bucket": "i-do-dba18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943157283345:android:df8555dd8936ab04cb7fb0",
+        "android_client_info": {
+          "package_name": "com.example.ido"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943157283345-tvvggm4tl4um4mqie535dqvmgtkq7l8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaYOy_Lmh-UBdtL89_MFsC3jDaz4kpsnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943157283345-tvvggm4tl4um4mqie535dqvmgtkq7l8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
